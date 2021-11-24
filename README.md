@@ -1,3 +1,5 @@
+## `Deploy`
+
 # ```SELF-BOT```
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
@@ -26,9 +28,9 @@
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
-- Owner name [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
-- Botname [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
+- Owner nomor [Here](wa.me/6285797562569)
+- Owner name [Here](Mozyy Chan)
+- Botname [Here](Mozyy Botz)
 
 ## `CHANGE DYNO`
 
@@ -53,5 +55,5 @@ Off in web nya
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`G O P A Y`](6285797562569)
 
